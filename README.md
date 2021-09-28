@@ -6,6 +6,9 @@
 
 <img width="686" alt="スクリーンショット 2021-09-29 1 01 44" src="https://user-images.githubusercontent.com/16476224/135123633-b53185bb-111d-4199-92dc-a5a435b100c0.png">
 
+# capture
+
+<img src="https://user-images.githubusercontent.com/16476224/135128454-9b5593f9-770a-43e5-8b20-450877d577fe.gif" width=320 />
 
 # coding flow
 以下の pull requestにデフォルト英語で日本語と韓国語の多言語対応したアプリの実装手順を納めています。<br>
