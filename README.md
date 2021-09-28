@@ -8,8 +8,9 @@
 
 
 # coding flow
-
-
+以下の pull requestにデフォルト英語で日本語と韓国語の多言語対応したアプリの実装手順を納めています。<br>
+実装手順は「Conversation」タブを参照し、修正コードは「Files changed」タブを参照ください<br>
+https://github.com/LeoAndo/android-app-localization-samples/pulls?q=is%3Apr+is%3Aclosed+label%3Adef_english_jp_ko
 
 # refs
 https://developer.android.com/training/basics/supporting-devices/languages?hl=ja#CreateDirs<br>
